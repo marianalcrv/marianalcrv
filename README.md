@@ -1,6 +1,7 @@
 👋 Hi, I’m @marianalcrv.
-My interests are football, programming and going out with friends.
-I’m currently learning C.:heart:
+I´m studying computer informatic in Instituto Superior Tecnico.
+My interests are sports, programming and going out with friends.
+I’m currently learning Assembly.:heart:
 
 
 
